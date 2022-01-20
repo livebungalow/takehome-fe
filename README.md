@@ -5,7 +5,7 @@ The following technical challenge is intended to evaluate stylistic decisions in
 
 **In this project, you will create a small app that allows a user to see properties (and it’s details) in various markets.**
 
-At Bungalow, we primarily use Vue for our frontend, with many projects implementing Nuxt as well, which is a framework layer on top of Vue (similar to what NextJS is for React). It provides additional structure, tooling and automation to improve the developer experience.
+At Bungalow, we primarily use [Vue](https://vuejs.org/) for our frontend, with many projects implementing [Nuxt](https://nuxtjs.org/) as well, which is a framework layer on top of Vue (similar to what NextJS is for React). It provides additional structure, tooling and automation to improve the developer experience.
 
 ### Requirements
 1. **Clone and build the take home project**
@@ -20,7 +20,7 @@ npm install && npm run serve
 * Once the project is up and running you should be able to visit https://localhost:8080 to view it!
 * If you like, you can add Vuetify to the project to add out-of-the-box designed components that look great and speed up development (we use this, and recommend it) - you can check out how to install it here.
 * 🚨  Important: CORS whitelists in our APIs will require you to use localhost:8080 for your app!
-  * We strongly recommend using the default Nuxt/Vue CLI configuration when creating project, since this should be set up out of the box!
+  * We strongly recommend using the default Vue CLI configuration when creating project, since this should be set up out of the box!
 
 2. **Implement a UI to achieve the acceptance criteria provided.**
 * Review the acceptance criteria provided below, and create an interface to achieve it to the best of your ability/understanding. Other that the fact the properties should be cards/tiles in a grid, there are no other design constraints.

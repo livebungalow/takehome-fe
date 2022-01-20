@@ -3,6 +3,8 @@
 ### Overview
 The following technical challenge is intended to evaluate stylistic decisions in both the code you write, and the way you think about UI/UX. The work you do here is meant to emulate a development experience you might have on any given day working on our engineering team. In that spirit, you may ask any questions along the way that you would ask if you were working beside us as a team member.
 
+**In this project, you will create a small app that allows a user to see properties (and it’s details) in various markets.**
+
 At Bungalow, we primarily use Vue for our frontend, with many projects implementing Nuxt as well, which is a framework layer on top of Vue (similar to what NextJS is for React). It provides additional structure, tooling and automation to improve the developer experience.
 
 ### Requirements
@@ -29,11 +31,9 @@ npm install && npm run serve
 * You can also discuss any additional features you would implement given extra time or things you wanted to do but didn’t get to, this helps us understand your thought process!
   
 4. **Add the project to Github**
-* Add your project to Github so that it can be easily shared with us, if you need to make the repo private, we’ll provide an email where you can send an invite to give us access.
+* Add your project to Github so that it can be easily shared with us, if you need to make the repo private, send an invite to engineering@bungalow.com to give us access.
 
 ### Acceptance Criteria
-In this project, you will create a small app that allows a user to see properties (and it’s details) in various markets.
-
 _As a user..._
 * I want to be able to visit the app and be presented with available markets for me to choose from.
 * Once I choose a desired market, I want to be taken to a list of available properties in that market.

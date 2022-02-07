@@ -48,7 +48,7 @@ _As a user..._
   Returns all of the available properties for a given market, accepts marget__slug as a query param.
   Example URL: https://stage-fieldstone.bungalow.com/api/v1/listings/properties/?market__slug=seattle
 
-You can see more detail on these public APIs in our documentation here.
+You can see more detail on these public APIs in our [documentation here](https://fieldstone.bungalow.com/api/v1/docs/).
 
 ### Expectations
 Our expectations are for you to spend ~2 hours on this, with the results will be evaluated accordingly. In your project please provide README file with any additional commentary you want to provide, assumptions you have made, or any next steps you would’ve taken given more time.

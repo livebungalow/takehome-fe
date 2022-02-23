@@ -3,7 +3,7 @@
 ### Overview
 The following technical challenge is intended to evaluate stylistic decisions in both the code you write, and the way you think about UI/UX. The work you do here is meant to emulate a development experience you might have on any given day working on our engineering team. In that spirit, you may ask any questions along the way that you would ask if you were working beside us as a team member.
 
-**In this project, you will create a small app that allows a user to see properties (and it’s details) in various markets.**
+**In this project, you will create a small app that allows a user to see properties (and its details) in various markets.**
 
 At Bungalow, we primarily use [Vue](https://vuejs.org/) for our frontend, with many projects implementing [Nuxt](https://nuxtjs.org/) as well, which is a framework layer on top of Vue (similar to what NextJS is for React). It provides additional structure, tooling and automation to improve the developer experience.
 
